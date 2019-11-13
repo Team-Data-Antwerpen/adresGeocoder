@@ -1,7 +1,8 @@
-Adressen register geocoder
+adres geocoder
 ------
 
-This tool allows you to geocode adressen in Flanders based on the Adresmatch geocoder from the adressen-register API of the Flemish governement. 
+Geocode adresses based on: 
+http://geoservices.wallonie.be/geolocalisation/doc/ws/index.xhtml (Wallonia and brussels)
 
-- Docs: https://overheid.vlaanderen.be/producten-diensten/gebouwen-adressenregister
-- API-doc: https://basisregisters.vlaanderen.be/Help/Api/GET-vversion-adresmatch_Gemeentenaam_Niscode_Postcode_KadStraatcode_RrStraatcode_Straatnaam_Huisnummer_Index_Busnummer
+And: 
+https://overheid.vlaanderen.be/producten-diensten/gebouwen-adressenregister (Flanders)
